@@ -12,7 +12,7 @@ const SearchFeed = () => {
   
 
   useEffect(()=>{
-    api(`search?q=${searchTerm}&region=IN`).then((response)=>{
+    api(`search?q=${searchTerm}&region=BR`).then((response)=>{
       setData(response)
     })
    },[searchTerm])
