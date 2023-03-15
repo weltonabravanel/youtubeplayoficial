@@ -7,7 +7,7 @@ const CategoriesPage = () => {
     const id = useParams()
     const[data,setData] = useState([])
     useEffect(()=>{
- api(`trending?type=${id.id}&region=IN`).then((response)=>{
+ api(`trending?type=${id.id}&region=BR`).then((response)=>{
     setData(response)})
 },[id.id])
   return (
