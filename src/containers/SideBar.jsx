@@ -85,7 +85,7 @@ const SideBar = () => {
                       <path d="M10 12h4v4h-4z"></path>
                     </svg>
                   }
-                  title="Inicio"
+                  title="Tendências"
                 />
               </Link>
               <SideBarItem
@@ -107,7 +107,7 @@ const SideBar = () => {
                     <path d="M14 7l7 0l0 7"></path>
                   </svg>
                 }
-                title="Tendências"
+                title="Em Alta"
               />
               <SideBarItem
                 icon={
