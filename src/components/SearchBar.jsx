@@ -46,7 +46,7 @@ const SearchBar = () => {
         type="text"
         onFocus={()=>setSuggestionsToggle(true)}
         onBlur={()=>setSuggestionsToggle(false)}
-        placeholder="Search..."
+        placeholder="Procurar..."
         onChange={(e)=>{setSearchTerm(e.target.value)}}
        
         onKeyDown={handleKeyDown}
