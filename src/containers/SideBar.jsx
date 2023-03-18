@@ -370,7 +370,7 @@ const SideBar = () => {
             />
           </div>
           <div className="footer mb-32  border-t pt-6">
-            <h2>Produzido por Youtube Play</h2>
+            <h2>Direitos Reservados</h2>
             <h2>Youtube Play</h2>
           </div>
         </div>
