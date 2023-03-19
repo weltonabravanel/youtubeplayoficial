@@ -23,7 +23,7 @@ const Navbar = () => {
               </svg>
             <h1 className="ml-2 font-semibold text-2xl text-slate-200">
               <span className=" text-red-500"></span>{""}
-            <img src="https://brasiltube.com.br/logo.png" alt="logo" width={100} height={100} />
+            <img src="https://i.pinimg.com/originals/55/a6/16/55a6161c44402efe1b8b3418074e19d8.png" alt="logo" width={100} height={100} />
             </h1>
             
           </Link>
