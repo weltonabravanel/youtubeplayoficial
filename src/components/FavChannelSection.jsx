@@ -18,7 +18,7 @@ const FavChannelSection = () => {
     <FavChannel channelId="UCRijo3ddMTht_IHyNSNXpNQ" channelThumbnail="https://yt3.googleusercontent.com/ytc/AL5GRJVdEnUyNNPVUQzeUAB0EFmP_cNCJWUX9qnBwAdesA=s176-c-k-c0x00ffffff-no-rj" handleClick="" />
     <FavChannel channelId="UCUN9lhwfMJRxMVuet7Shg0w" channelThumbnail="https://yt3.googleusercontent.com/qcmNO_rYyGCg0GuDdy5EeFTiTmZWHryVTCLumINe-ihVYgWXl-92pzAaaRZVMBz8Q9azPeHVC7s=s176-c-k-c0x00ffffff-no-rj" handleClick="" />
     <FavChannel channelId="UCHkj014U2CQ2Nv0UZeYpE_A" channelThumbnail="https://yt3.googleusercontent.com/ytc/AL5GRJUtMKAouKExeKDkiQuju69SZQQGhtllV08zOzVK6w=s176-c-k-c0x00ffffff-no-rj" handleClick="" />
-    <FavChannel channelId="UC2xskkQVFEpLcGFnNSLQY0A" channelThumbnail="https://yt3.googleusercontent.com/ytc/AL5GRJUtMKAouKExeKDkiQuju69SZQQGhtllV08zOzVK6w=s176-c-k-c0x00ffffff-no-rj" handleClick="" />
+    <FavChannel channelId="UC2xskkQVFEpLcGFnNSLQY0A" channelThumbnail="https://yt3.ggpht.com/YU2mwJNyBinBPRQRE4hLHK5zqb1ze5BgrdlFQSINRcYB3Ob-RgZiPWt_jGn8SuYEwovtWT5IB_s=s48-c-k-c0x00ffffff-no-nd-rj" handleClick="" />
     
   </div>
   )
