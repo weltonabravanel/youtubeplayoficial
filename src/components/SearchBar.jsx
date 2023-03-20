@@ -37,7 +37,7 @@ const SearchBar = () => {
   };
   
   return (
-    <div className="rounded-lg md:w-1/3 w-1/3 sm:ml-0 ml-10 sm:mr-0">
+    <div className="rounded-lg md:w-1/2 w-1/2 sm:ml-0 ml-1 sm:mr-10">
     <div className="rounded-lg overflow-hidden searchbar w-full mr-2 sm:mr-0 flex text-slate-300 items-center relative focus:w-full">
       <form  onSubmit={handleSubmit} className=" w-full">
       <input
@@ -54,7 +54,7 @@ const SearchBar = () => {
       <svg
         onClick={()=>{setSearchTerm("");navigate(`search/${searchTerm}`);}}
         className="absolute mr-4 cursor-pointer right-0 "
-        viewBox="0 0 15 15"
+        viewBox="0 0 24 24"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         width="15"
