@@ -14,16 +14,12 @@ const Navbar = () => {
       <div className="navbar mx-auto flex  items-center sm:justify-between md:px-4 ">
         <div className=" flex items-center ml-14">
           <Link className="flex items-end" to="/">
-            <svg
-              className="nexticon w-8 fill-current"
-              role="img"
-              viewBox="0 0 24 24"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              </svg>
-            <h1 className="ml-2 font-semibold text-2xl text-slate-200">
+           
+                    
+            <h1 className=" font-semibold text-1xl text-slate-20">
               <span className=" text-red-500"></span>{""}
-            <img src="https://i.pinimg.com/originals/55/a6/16/55a6161c44402efe1b8b3418074e19d8.png" alt="logo" width={100} height={100} />
+  
+            <img src="https://i.pinimg.com/originals/55/a6/16/55a6161c44402efe1b8b3418074e19d8.png" alt="logo" width={100} height={100} align="left"></img>
             </h1>
             
           </Link>
