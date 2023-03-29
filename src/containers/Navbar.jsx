@@ -19,7 +19,7 @@ const Navbar = () => {
             <h1 className=" font-semibold text-1xl text-slate-20">
               <span className=" text-red-500"></span>{""}
   
-            <img src="https://i.pinimg.com/originals/55/a6/16/55a6161c44402efe1b8b3418074e19d8.png" alt="logo" width={100} height={100} align="left"></img>
+            <img src="https://i.pinimg.com/originals/49/95/98/499598b988ea9cab744c6854f23c32e3.png" alt="logo" width={100} height={100} align="left"></img>
             </h1>
             
           </Link>
